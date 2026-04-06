@@ -15,6 +15,7 @@
 
 - Storefront demo: https://exclusive-e-store.netlify.app
 - Admin dashboard demo: https://e-commerce-admindashboard.netlify.app/login
+- SwaggerUI: https://premium-commerce.runasp.net/swagger/index.html
 - Admin demo login:
   Email: `admin@ecommerce.com`
   Password: `Password123!`
